@@ -25,6 +25,4 @@ An interactive dashboard to analyze product and regional sales using Excel and P
 ## 📌 How to Use
 - Open `sales_dashboard.pbix` in Power BI Desktop
 - Interact using slicers on the right panel
-  
-## 📷 Dashboard Preview
-![Dashboard Screenshot](https://github.com/navaneethprem/sales-dashboard-project-Power-Bi/blob/main/sales_dashboard_preview.pdf)
+
